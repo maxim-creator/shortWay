@@ -1,0 +1,9 @@
+﻿  Dijkstra.cpp
+C:\Users\max47\Desktop\programms\shortWay\Dijkstra.cpp(21,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\max47\Desktop\programms\shortWay\Dijkstra.cpp(22,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\max47\Desktop\programms\shortWay\Dijkstra.cpp(42,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\max47\Desktop\programms\shortWay\Dijkstra.cpp(46,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\max47\Desktop\programms\shortWay\Dijkstra.cpp(55,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\max47\Desktop\programms\shortWay\Dijkstra.cpp(57,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\max47\Desktop\programms\shortWay\Dijkstra.cpp(72,21): warning C4018: '<': signed/unsigned mismatch
+  shortWay.vcxproj -> C:\Users\max47\Desktop\programms\shortWay\Debug\shortWay.exe
