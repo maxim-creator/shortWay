@@ -7,10 +7,12 @@ void Dijkstra::setGraph()
 	nodeY.push_back(startY);
 	for (int i = 0; i < sizeX; i++) {
 		for (int j = 0; j < sizeY; j++) {
-			if (arr[i][j] == 2) {
-				nodeX.push_back(i);
-				nodeY.push_back(j);
-				nodeQuantity++;
+			if (startX != i and startY != j) {
+				if (arr[i][j] == 2) {
+					nodeX.push_back(i);
+					nodeY.push_back(j);
+					nodeQuantity++;
+				}
 			}
 		}
 	}
