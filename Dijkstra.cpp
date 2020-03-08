@@ -4,6 +4,7 @@ void Dijkstra::setGraph()
 {
 	//вершины
 	nodeX.push_back(startX);
+	cout << "lalalala" << endl;
 	nodeY.push_back(startY);
 	for (int i = 0; i < sizeX; i++) {
 		for (int j = 0; j < sizeY; j++) {
